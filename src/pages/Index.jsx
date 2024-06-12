@@ -1,4 +1,4 @@
-import { Box, Flex, Text, VStack, IconButton, useColorMode, useColorModeValue } from "@chakra-ui/react";
+import { Box, Flex, Text, VStack, IconButton, useColorMode, useColorModeValue, Container } from "@chakra-ui/react";
 import { FaSun, FaMoon, FaHome, FaUser, FaCog } from "react-icons/fa";
 
 const Sidebar = () => {
